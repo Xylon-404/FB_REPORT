@@ -1,56 +1,46 @@
-# ❤️‍🔥 FB_REPORT - Facebook Report Tool (Termux + GitHub)
+<h1 align="center">🔥 FB_REPORT 🔥</h1>
 
-[![Stars](https://img.shields.io/github/stars/Xylon-404/FB_REPORT?style=for-the-badge)](https://github.com/Xylon-404/FB_REPORT/stargazers)
-[![Forks](https://img.shields.io/github/forks/Xylon-404/FB_REPORT?style=for-the-badge)](https://github.com/Xylon-404/FB_REPORT/network/members)
-[![Issues](https://img.shields.io/github/issues/Xylon-404/FB_REPORT?style=for-the-badge)](https://github.com/Xylon-404/FB_REPORT/issues)
-
----
-
-## 📌 About FB_REPORT
-FB_REPORT is a **Facebook Report Tool** made for **educational purposes only**.  
-This tool works on **Termux, Linux, and Windows**.  
-It is **slow but working** 😥 and still under development.
-
-⚠️ **Disclaimer:**  
-This project is created only for **educational & research** purposes.  
-I am not responsible for any kind of misuse.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Xylon-404/FB_REPORT?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Xylon-404/FB_REPORT?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Xylon-404/FB_REPORT?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Windows-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
-## 🚀 Features
-- Report Facebook Accounts / Pages (slow but works 💀)  
-- Works on **Termux / Kali Linux / Ubuntu / Windows**  
-- Simple & lightweight Python script  
-- Beginner-friendly setup  
+<p align="center">
+  ❤️‍🔥 <b>FB_REPORT</b> is a <b>Facebook Report Tool</b> made for <b>Educational Purposes Only</b>.  
+  It may be <b>slow 😥 but still working 💀</b> on Termux, Linux, and Windows.  
+</p>
 
 ---
 
-## 📲 Installation (Termux)
+## ✨ Features
+- ⚡ Report Facebook Accounts / Pages (slow but works)  
+- 🖥️ Works on **Termux, Kali Linux, Ubuntu, Windows**  
+- 🐍 Written in **Python**  
+- 🚀 Beginner-friendly setup  
+- 🔒 Made for **research & education**  
+
+---
+
+## ⚙️ Installation Guide
+
+### 📲 Termux
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install git python -y
 git clone https://github.com/Xylon-404/FB_REPORT.git
 cd FB_REPORT
 python index.py
+```
 
+🖥️ Linux / Windows
+```
+git clone https://github.com/Xylon-404/FB_REPORT.git
+cd FB_REPORT
+python index.py
+```
 
-
-
----
-
-### 🔮 Tricks to rank on Google:
-1. **README.md-তে keywords** অবশ্যই থাকতে হবে (যেমন: `facebook report termux`, `facebook report github`).  
-2. Repo-র **description** update করে দাও →  
-   👉 `"Facebook Report Tool for Termux & GitHub | Educational Purpose Only"`  
-3. Repo-তে **topics/tags** add করো →  
-   - `facebook-report`  
-   - `termux-tool`  
-   - `termux-fb`  
-   - `github-fb-report`  
-   - `python-tool`  
-
-এগুলো দিলে Google indexing সহজে হবে।  
-
----
-
-চাও নাকি আমি তোমার `README.md` ফাইলটা full লিখে সাজিয়ে দেব SEO optimized করে? 🔥
