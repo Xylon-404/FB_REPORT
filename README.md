@@ -44,3 +44,7 @@ cd FB_REPORT
 python index.py
 ```
 
+## 📌 SEO Keywords
+facebook report termux, fb report github, termux fb report tool, 
+report facebook account script, fb report python tool, xylon-404 fb report,
+facebook report github termux, fb report educational tool
