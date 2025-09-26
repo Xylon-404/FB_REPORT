@@ -17,6 +17,15 @@
 
 ---
 
+<p align="center">
+  <img src="image/Screenshot_20250926_201337_Termux.png" alt="facebook report termux" width="700">
+</p>
+
+<p align="center">
+  <img src="image/Screenshot_20250926_201459_Termux.png" alt="facebook report termux" width="700">
+</p>
+
+
 ## ✨ Features
 - ⚡ Report Facebook Accounts / Pages (slow but works)  
 - 🖥️ Works on **Termux, Kali Linux, Ubuntu, Windows**  
@@ -55,3 +64,9 @@ facebook report github termux, fb report educational tool
 This is a **Facebook Report Tool for Termux and GitHub users**.  
 If you search **facebook report github** or **termux fb report tool**,  
 you will find this project. ✅
+
+
+![facebook report termux](https://raw.githubusercontent.com/Xylon-404/FB_REPORT/main/image/Screenshot_20250926_201337_Termux.png)
+
+![facebook report termux](https://raw.githubusercontent.com/Xylon-404/FB_REPORT/main/image/Screenshot_20250926_201459_Termux.png)
+
