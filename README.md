@@ -48,3 +48,10 @@ python index.py
 facebook report termux, fb report github, termux fb report tool, 
 report facebook account script, fb report python tool, xylon-404 fb report,
 facebook report github termux, fb report educational tool
+
+
+# FB_REPORT - Facebook Report Tool for Termux (GitHub)
+
+This is a **Facebook Report Tool for Termux and GitHub users**.  
+If you search **facebook report github** or **termux fb report tool**,  
+you will find this project. ✅
